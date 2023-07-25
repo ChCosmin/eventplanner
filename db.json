@@ -1,5 +1,5 @@
 {
-  'eventList': [
+  "eventList": [
     {
       "id": "1",
       "title": "Redux Basic",
@@ -91,6 +91,6 @@
       "categories": ["Team"]
     }
   ],
-  'filters': ['Team', 'Social', 'Coding'],
-  'subscriptions': []
+  "filters": ['Team', 'Social', 'Coding'],
+  "subscriptions": []
 }
