@@ -91,6 +91,6 @@
       "categories": ["Team"]
     }
   ],
-  "filters": ['Team', 'Social', 'Coding'],
+  "filters": ["Team", "Social", "Coding"],
   "subscriptions": []
 }
