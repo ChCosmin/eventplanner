@@ -84,5 +84,7 @@
     }
   ],
   "filters": ["Team", "Social", "Coding"],
+  "colors": ["blue", "yellow", "green"],
+  "filtersColorMap": { "Team": "blue", "Social": "yellow", "Coding": "green" }
   "subscriptions": []
 }
